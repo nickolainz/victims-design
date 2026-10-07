@@ -1,0 +1,481 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-03T05:36:42Z"
+ },
+ "title": "Victims Information Design System",
+ "namespace": "VictimsInfo",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Illustrations",
+  "Icons"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "l",
+   "order": [
+    "victims-information-logo.svg",
+    "nz-government-logo.png"
+   ],
+   "files": {
+    "nz-government-logo.png": {
+     "name": "nz-government-logo.png",
+     "blob": "1081ae8a7798dd4ddc76c516c5772a5e",
+     "size": 3436,
+     "type": "image/png"
+    },
+    "victims-information-logo.svg": {
+     "name": "victims-information-logo.svg",
+     "blob": "23e683c046938ca9d3d43186b9d23d90",
+     "size": 23169,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Illustrations": {
+   "name": "Illustrations",
+   "tile": "l",
+   "order": [
+    "botanical.svg",
+    "enlarged-mark.svg",
+    "banner-colour.png"
+   ],
+   "files": {
+    "banner-colour.png": {
+     "name": "banner-colour.png",
+     "blob": "c245d40a33aa99e18805b2d1e1c6a2e7",
+     "size": 8117,
+     "type": "image/png"
+    },
+    "botanical.svg": {
+     "name": "botanical.svg",
+     "blob": "2fa14e010f060d767c34894344a52b2d",
+     "size": 24669,
+     "type": "image/svg+xml"
+    },
+    "enlarged-mark.svg": {
+     "name": "enlarged-mark.svg",
+     "blob": "c93f679da17563eb1db11134d5497cde",
+     "size": 1048,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Icons": {
+   "name": "Icons",
+   "tile": "xs",
+   "order": [
+    "angle-double-right-solid.svg",
+    "angle-down-solid.svg",
+    "angle-right-solid.svg",
+    "angle-up-solid.svg",
+    "arrow-left.svg",
+    "arrow-link.svg",
+    "arrow-right.svg",
+    "back-to-top.svg",
+    "balance-scale-solid.svg",
+    "bars-solid.svg",
+    "bell-solid.svg",
+    "caret-down.svg",
+    "check-circle-solid.svg",
+    "clipboard-list-solid.svg",
+    "close-icon-circle.svg",
+    "close.svg",
+    "comment-alt-solid.svg",
+    "comments-solid.svg",
+    "ellipsis-v-solid.svg",
+    "envelope.svg",
+    "exclamation-circle-solid.svg",
+    "exclamation-triangle-solid.svg",
+    "external-link-alt-solid.svg",
+    "file-alt-solid.svg",
+    "file-img-solid.svg",
+    "file-light.svg",
+    "file-pdf-light.svg",
+    "file-pdf-solid.svg",
+    "file-solid.svg",
+    "fist-raised-solid.svg",
+    "get-help-now.svg",
+    "glasses-solid.svg",
+    "hand-paper-solid.svg",
+    "hands-helping-solid.svg",
+    "heart.svg",
+    "info-circle-solid.svg",
+    "landmark-solid.svg",
+    "link-solid.svg",
+    "money-check-alt-solid.svg",
+    "on-this-page-arrow.svg",
+    "phone-alt-solid.svg",
+    "print.svg",
+    "question-solid.svg",
+    "restroom-solid.svg",
+    "search-solid.svg",
+    "search.svg",
+    "share.svg",
+    "sign-out-alt-solid.svg",
+    "sms-solid.svg",
+    "times-solid-1.svg",
+    "times-solid.svg",
+    "unlock-alt-solid.svg",
+    "user-edit-solid.svg",
+    "user-friends-solid.svg",
+    "user.svg",
+    "users-solid.svg"
+   ],
+   "files": {
+    "angle-double-right-solid.svg": {
+     "name": "angle-double-right-solid.svg",
+     "blob": "aefd41a6704ef1ff6465a8aea41b10c6",
+     "size": 300,
+     "type": "image/svg+xml"
+    },
+    "angle-down-solid.svg": {
+     "name": "angle-down-solid.svg",
+     "blob": "4f12fd20e5d9738eba1d76230efee3ea",
+     "size": 229,
+     "type": "image/svg+xml"
+    },
+    "angle-right-solid.svg": {
+     "name": "angle-right-solid.svg",
+     "blob": "853326a73a641f530cdc839158664c24",
+     "size": 229,
+     "type": "image/svg+xml"
+    },
+    "angle-up-solid.svg": {
+     "name": "angle-up-solid.svg",
+     "blob": "56811b5216bfabd3166aef4152a1d3c4",
+     "size": 224,
+     "type": "image/svg+xml"
+    },
+    "arrow-left.svg": {
+     "name": "arrow-left.svg",
+     "blob": "5b3d356e29cf8d04dbc6561cfe80dbb6",
+     "size": 476,
+     "type": "image/svg+xml"
+    },
+    "arrow-link.svg": {
+     "name": "arrow-link.svg",
+     "blob": "2a6bf188d07806a2600c207cffb91e82",
+     "size": 932,
+     "type": "image/svg+xml"
+    },
+    "arrow-right.svg": {
+     "name": "arrow-right.svg",
+     "blob": "e1b3ce22e3c6436a06229289adb36292",
+     "size": 469,
+     "type": "image/svg+xml"
+    },
+    "back-to-top.svg": {
+     "name": "back-to-top.svg",
+     "blob": "07efc4793acee41885135762b9ffb262",
+     "size": 1017,
+     "type": "image/svg+xml"
+    },
+    "balance-scale-solid.svg": {
+     "name": "balance-scale-solid.svg",
+     "blob": "725a3e721423552e17e18aba3ab9ccc9",
+     "size": 1116,
+     "type": "image/svg+xml"
+    },
+    "bars-solid.svg": {
+     "name": "bars-solid.svg",
+     "blob": "3f2626c2ead7aaf532a407df6da21d1b",
+     "size": 169,
+     "type": "image/svg+xml"
+    },
+    "bell-solid.svg": {
+     "name": "bell-solid.svg",
+     "blob": "6daf158429f7e419376839a1a6a8feb4",
+     "size": 1034,
+     "type": "image/svg+xml"
+    },
+    "caret-down.svg": {
+     "name": "caret-down.svg",
+     "blob": "908af40544eb585b842007bf5541f808",
+     "size": 253,
+     "type": "image/svg+xml"
+    },
+    "check-circle-solid.svg": {
+     "name": "check-circle-solid.svg",
+     "blob": "e6f206f3190fa70f20bd5e2b4829e8dd",
+     "size": 643,
+     "type": "image/svg+xml"
+    },
+    "clipboard-list-solid.svg": {
+     "name": "clipboard-list-solid.svg",
+     "blob": "7e14aaa6071604dc86ae4257735613b6",
+     "size": 543,
+     "type": "image/svg+xml"
+    },
+    "close-icon-circle.svg": {
+     "name": "close-icon-circle.svg",
+     "blob": "cc3ec47cc00786a3fb30a304cf710fe3",
+     "size": 465,
+     "type": "image/svg+xml"
+    },
+    "close.svg": {
+     "name": "close.svg",
+     "blob": "a7f989967e7d29281c531a5a716d74d1",
+     "size": 614,
+     "type": "image/svg+xml"
+    },
+    "comment-alt-solid.svg": {
+     "name": "comment-alt-solid.svg",
+     "blob": "2cf1f201641e518d1151568fa1059fea",
+     "size": 210,
+     "type": "image/svg+xml"
+    },
+    "comments-solid.svg": {
+     "name": "comments-solid.svg",
+     "blob": "a66de8e9e895ffd5e4889df9eba8c574",
+     "size": 340,
+     "type": "image/svg+xml"
+    },
+    "ellipsis-v-solid.svg": {
+     "name": "ellipsis-v-solid.svg",
+     "blob": "40b69cce400675c3fe873d90434a6abb",
+     "size": 516,
+     "type": "image/svg+xml"
+    },
+    "envelope.svg": {
+     "name": "envelope.svg",
+     "blob": "df6a14e39842ab95064da4ea3b9a1158",
+     "size": 256,
+     "type": "image/svg+xml"
+    },
+    "exclamation-circle-solid.svg": {
+     "name": "exclamation-circle-solid.svg",
+     "blob": "629dd55de3487c4656c6353531a3841e",
+     "size": 406,
+     "type": "image/svg+xml"
+    },
+    "exclamation-triangle-solid.svg": {
+     "name": "exclamation-triangle-solid.svg",
+     "blob": "3b86c3f0b9f8fde16c0c4ab194de7ee5",
+     "size": 314,
+     "type": "image/svg+xml"
+    },
+    "external-link-alt-solid.svg": {
+     "name": "external-link-alt-solid.svg",
+     "blob": "a58af0dabf6fd8de215e6c6c019e58fa",
+     "size": 256,
+     "type": "image/svg+xml"
+    },
+    "file-alt-solid.svg": {
+     "name": "file-alt-solid.svg",
+     "blob": "67d2b6c46cd968232cd5cd654f34d0db",
+     "size": 345,
+     "type": "image/svg+xml"
+    },
+    "file-img-solid.svg": {
+     "name": "file-img-solid.svg",
+     "blob": "875d28216c6479b8df8368a7ae1999b6",
+     "size": 741,
+     "type": "image/svg+xml"
+    },
+    "file-light.svg": {
+     "name": "file-light.svg",
+     "blob": "bd83028b0da0ca893ac547d8a1f66e3f",
+     "size": 438,
+     "type": "image/svg+xml"
+    },
+    "file-pdf-light.svg": {
+     "name": "file-pdf-light.svg",
+     "blob": "1ed43be1adc854aa704fcf2faa1e6940",
+     "size": 1830,
+     "type": "image/svg+xml"
+    },
+    "file-pdf-solid.svg": {
+     "name": "file-pdf-solid.svg",
+     "blob": "c754bec1592a407cf24744ae209e4b88",
+     "size": 2374,
+     "type": "image/svg+xml"
+    },
+    "file-solid.svg": {
+     "name": "file-solid.svg",
+     "blob": "cec786b4be6432a5f00a5becd0e83384",
+     "size": 259,
+     "type": "image/svg+xml"
+    },
+    "fist-raised-solid.svg": {
+     "name": "fist-raised-solid.svg",
+     "blob": "dd7e0ee23088018d8946d2f57993b2fe",
+     "size": 2458,
+     "type": "image/svg+xml"
+    },
+    "get-help-now.svg": {
+     "name": "get-help-now.svg",
+     "blob": "47744299ad74d9fac8b05b4fce26183b",
+     "size": 940,
+     "type": "image/svg+xml"
+    },
+    "glasses-solid.svg": {
+     "name": "glasses-solid.svg",
+     "blob": "15a33505f032a2ff3e18368b993a7e56",
+     "size": 879,
+     "type": "image/svg+xml"
+    },
+    "hand-paper-solid.svg": {
+     "name": "hand-paper-solid.svg",
+     "blob": "ffd0433842a8b1f327d4988a7a3eb0eb",
+     "size": 1153,
+     "type": "image/svg+xml"
+    },
+    "hands-helping-solid.svg": {
+     "name": "hands-helping-solid.svg",
+     "blob": "d6bab408e1e64f4018ba8ff7a25c01ae",
+     "size": 1853,
+     "type": "image/svg+xml"
+    },
+    "heart.svg": {
+     "name": "heart.svg",
+     "blob": "42284766d5318bdb2f2b5dc6f786c0c3",
+     "size": 788,
+     "type": "image/svg+xml"
+    },
+    "info-circle-solid.svg": {
+     "name": "info-circle-solid.svg",
+     "blob": "e49d479d3adc7f0293782d38fefa58da",
+     "size": 455,
+     "type": "image/svg+xml"
+    },
+    "landmark-solid.svg": {
+     "name": "landmark-solid.svg",
+     "blob": "1a4783abf64260ac7de92466ad22c064",
+     "size": 433,
+     "type": "image/svg+xml"
+    },
+    "link-solid.svg": {
+     "name": "link-solid.svg",
+     "blob": "b29529dd69f0eab4d37f5e58615dce77",
+     "size": 1559,
+     "type": "image/svg+xml"
+    },
+    "money-check-alt-solid.svg": {
+     "name": "money-check-alt-solid.svg",
+     "blob": "0c696a2c5c0b1d9fd4ea7b23795333a1",
+     "size": 1634,
+     "type": "image/svg+xml"
+    },
+    "on-this-page-arrow.svg": {
+     "name": "on-this-page-arrow.svg",
+     "blob": "2523e3126dd5180ef63656ec611561e6",
+     "size": 825,
+     "type": "image/svg+xml"
+    },
+    "phone-alt-solid.svg": {
+     "name": "phone-alt-solid.svg",
+     "blob": "963a234442234d293010a29f86b3ce94",
+     "size": 1839,
+     "type": "image/svg+xml"
+    },
+    "print.svg": {
+     "name": "print.svg",
+     "blob": "b4ed70de3c8401468213832f4f77f627",
+     "size": 743,
+     "type": "image/svg+xml"
+    },
+    "question-solid.svg": {
+     "name": "question-solid.svg",
+     "blob": "1864587ce8cdd1ba70de492d2d2aa357",
+     "size": 1167,
+     "type": "image/svg+xml"
+    },
+    "restroom-solid.svg": {
+     "name": "restroom-solid.svg",
+     "blob": "aa1887d18ae9bcb2f07c6440ab370f66",
+     "size": 1364,
+     "type": "image/svg+xml"
+    },
+    "search-solid.svg": {
+     "name": "search-solid.svg",
+     "blob": "299ba84e8de6ef84511c4e7d5a2768e4",
+     "size": 517,
+     "type": "image/svg+xml"
+    },
+    "search.svg": {
+     "name": "search.svg",
+     "blob": "0a319e4e4cf282d22285085f0b67a95f",
+     "size": 492,
+     "type": "image/svg+xml"
+    },
+    "share.svg": {
+     "name": "share.svg",
+     "blob": "c12cff7d82ff7efbbef48115c8e150ab",
+     "size": 1521,
+     "type": "image/svg+xml"
+    },
+    "sign-out-alt-solid.svg": {
+     "name": "sign-out-alt-solid.svg",
+     "blob": "3b57c228e23ff203f1775726209d5305",
+     "size": 553,
+     "type": "image/svg+xml"
+    },
+    "sms-solid.svg": {
+     "name": "sms-solid.svg",
+     "blob": "9ec7cdcf48c2f4d15a40a54ca6bb70e6",
+     "size": 270,
+     "type": "image/svg+xml"
+    },
+    "times-solid-1.svg": {
+     "name": "times-solid-1.svg",
+     "blob": "3522da45e2ca7d8a4ec3546f03349512",
+     "size": 283,
+     "type": "image/svg+xml"
+    },
+    "times-solid.svg": {
+     "name": "times-solid.svg",
+     "blob": "c6b04acc28ce06fffb30e27abdfc7980",
+     "size": 283,
+     "type": "image/svg+xml"
+    },
+    "unlock-alt-solid.svg": {
+     "name": "unlock-alt-solid.svg",
+     "blob": "5cdd753a11e7600595627ad6a2aa221c",
+     "size": 748,
+     "type": "image/svg+xml"
+    },
+    "user-edit-solid.svg": {
+     "name": "user-edit-solid.svg",
+     "blob": "741747e03ed69aaa6e128cd7cc76ad1b",
+     "size": 1057,
+     "type": "image/svg+xml"
+    },
+    "user-friends-solid.svg": {
+     "name": "user-friends-solid.svg",
+     "blob": "714a4fa9741f6da8395422b5070bca74",
+     "size": 1095,
+     "type": "image/svg+xml"
+    },
+    "user.svg": {
+     "name": "user.svg",
+     "blob": "b8bdee927176b8272141350148426546",
+     "size": 557,
+     "type": "image/svg+xml"
+    },
+    "users-solid.svg": {
+     "name": "users-solid.svg",
+     "blob": "64b4641249d36e1c6c50dc2bcaff4af6",
+     "size": 2162,
+     "type": "image/svg+xml"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "Callum Valentine",
+  "at": "2026-10-03T05:36:42Z",
+  "via": "Claude Code",
+  "note": "Created from victimsinfo.govt.nz (live theme m=1788225938), the Observatory site mirror and the victims-dashboard template"
+ }
+}

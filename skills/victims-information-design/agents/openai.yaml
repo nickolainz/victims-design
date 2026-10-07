@@ -1,0 +1,4 @@
+interface:
+  display_name: "Victims Information design"
+  short_description: "Look, voice and components of victimsinfo.govt.nz"
+  default_prompt: "Use $victims-information-design to design, build or review this so it matches Victims Information."

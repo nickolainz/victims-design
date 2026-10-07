@@ -1,0 +1,49 @@
+<!doctype html>
+<!--
+  Starter shell for a Victims Information content page.
+  Made when packaging the skill (not a file from the live site): it wires up the
+  stylesheets, the page skeleton and the quick exit. Fill the marked slots by
+  copying markup from ../components/<Name>.html (the <body> contents), keeping
+  every class name. Paths assume this file stays in assets/templates/.
+-->
+<html lang="en-nz" data-theme="blue">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page title | Victims Information</title>
+<link rel="stylesheet" href="../tokens/tokens.css">
+<link rel="stylesheet" href="../css/bundle.css">
+<style>
+  /* Skip link: hidden until focused. The site's own skip link styling is not in bundle.css. */
+  .skip-link { position: absolute; left: 1rem; top: -100px; z-index: 1000; padding: .75rem 1rem;
+    background: var(--white); color: var(--navy); font-family: var(--font-sans); font-weight: 700;
+    border-radius: var(--radius-sm); outline: 2px solid var(--green); }
+  .skip-link:focus { top: 1rem; }
+</style>
+</head>
+<body class="page page--blockcontentpage">
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<!-- SLOT: Header — copy from ../components/Header.html. Keeps the topbar with 111 and 0800 650 654. -->
+
+<main id="main-content" class="main base-container block-content-page mjb">
+
+  <!-- SLOT: Banner (content variant) — ../components/Banner.html. One per page, first in main. Holds the h1. -->
+
+  <!-- SLOT: Breadcrumbs — ../components/Breadcrumbs.html -->
+
+  <div class="inner inner--with-sidebar">
+    <!-- Sidebar (columns 1–4): TableOfContents — ../components/TableOfContents.html (mark .no-print) -->
+    <!-- Content (columns 5–12): Overview lead, then blocks (RichText, Alert, Accordion, GuidedProcess …) -->
+    <!-- End with FeaturedLinks (previous and next) — ../components/FeaturedLinks.html -->
+  </div>
+
+  <!-- SLOT: PageActions (print, share, back to top) — ../components/PageActions.html (mark .no-print) -->
+</main>
+
+<!-- SLOT: Footer — copy from ../components/Footer.html (carries the NZ Government logo). -->
+
+<!-- Quick exit: required on every page. Verbatim from ../components/QuickExit.html. -->
+<a class="quick-exit" href="https://google.co.nz" id="quick-exit"> Quick exit <svg class="icon quick-exit__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3C7.03711 3 3 7.03711 3 12C3 16.9629 7.03711 21 12 21C15.0381 21 17.7305 19.4912 19.3594 17.1797L18.1406 16.3125C16.7842 18.2402 14.543 19.5 12 19.5C7.84863 19.5 4.5 16.1514 4.5 12C4.5 7.84863 7.84863 4.5 12 4.5C14.543 4.5 16.7812 5.75977 18.1406 7.6875L19.3594 6.82031C17.7305 4.50879 15.0381 3 12 3ZM17.5078 8.46094L16.4297 9.53906L18.1406 11.25H9V12.75H18.1406L16.4297 14.4609L17.5078 15.5391L20.5078 12.5391L21.0234 12L20.5078 11.4609L17.5078 8.46094Z" fill="currentColor"/></svg></a>
+</body>
+</html>
