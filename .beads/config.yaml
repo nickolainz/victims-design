@@ -68,3 +68,7 @@
 sync.remote: "git+ssh://git@github.com/nickolainz/victims-design.git"
 dolt:
     shared-server: true
+    auto-commit: "on"
+validation:
+    on-create: warn
+    on-close: warn
