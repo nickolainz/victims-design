@@ -2,7 +2,7 @@ schema = 1
 id = "victims-design"
 kind = "docs"
 lifecycle = "active"
-summary = "TODO: one-line summary for victims-design"
+summary = "Victims Information (victimsinfo.govt.nz) design system, packaged as a portable agent skill"
 graft = true
 beads = true
 
@@ -11,7 +11,7 @@ upstream = []
 related = []
 
 [commands]
-check = "true  # TODO: wire a markdown link checker (see AGENTS.md)"
+check = "python3 skills/victims-information-design/scripts/verify.py"
 
 [secrets]
 names = []
