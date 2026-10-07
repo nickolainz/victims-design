@@ -1,0 +1,17 @@
+schema = 1
+id = "victims-design"
+kind = "docs"
+lifecycle = "active"
+summary = "TODO: one-line summary for victims-design"
+graft = true
+beads = true
+
+[relations]
+upstream = []
+related = []
+
+[commands]
+check = "true  # TODO: wire a markdown link checker (see AGENTS.md)"
+
+[secrets]
+names = []
